@@ -1,3 +1,15 @@
+'''
+Clase:        Fundamentos de Programacion G2
+Tema:         Bloque condicional
+Ejercicio:    2.3.2
+Descripción:  Ejercicios de Impuestos
+
+Autor:        Roberto Carlos Iglesias Álvarez
+Fecha:        2025-05-18
+Estado:       [Terminado]
+'''
+
+
 Energia = int(input("Unidades consumidad de energia: "))
 
 if Energia <= 100:
