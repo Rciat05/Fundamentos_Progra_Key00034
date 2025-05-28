@@ -4,7 +4,7 @@
 Clase:        Fundamentos de Programacion G2
 Tema:         Variables, Tipos, entrada y salidad
 Ejercicio:    1.3.1
-Descripción:  Generador del Correo Key
+Descripción:  Calculador de propina
 
 Autor:        Roberto Carlos Iglesias Álvarez
 Fecha:        2025-05-18
