@@ -1,3 +1,15 @@
+'''
+Clase:        Fundamentos de Programacion G2
+Tema:         Bloques iterativos
+Ejercicio:    5.4.1
+Descripción:  Adivina el numero
+
+Autor:        Roberto Carlos Iglesias Álvarez
+Fecha:        2025-05-31
+Estado:       [Terminado]
+'''
+
+
 import random 
 
 Numero_Random = random.randint(1, 101)
