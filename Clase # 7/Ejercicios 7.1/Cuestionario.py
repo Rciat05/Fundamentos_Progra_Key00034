@@ -10,7 +10,6 @@ Fecha:        2025-06-03
 Estado:       [Terminado]
 '''
 
-
 import numpy as np
 
 consumo = np.array([
